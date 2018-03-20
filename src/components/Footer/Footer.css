@@ -1,0 +1,11 @@
+.page-footer {
+  position: fixed;
+  height: 50px;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.footer .page-footer {
+  height: 200px;
+}
